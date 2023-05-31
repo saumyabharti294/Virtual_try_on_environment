@@ -42,7 +42,7 @@ This project aims to create an immersive environment where users can virtually t
 
 To set up the virtual try-on environment, follow these steps:
 
-1. Clone the project repository from GitHub: [link_to_repository](https://github.com/your_repository).
+1. Clone the project repository from GitHub: [link_to_repository](https://github.com/saumyabharti294/Virtual_try_on_environment).
 
 2. Install Unity on your development machine, ensuring that it meets the required version specified in the project documentation.
 
